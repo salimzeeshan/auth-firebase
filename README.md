@@ -35,5 +35,6 @@ Start the server
 ## Tech Stack
 
 **Client:** React, JavaScript, Chakra UI
+
 **Authentication** Firebase
 
